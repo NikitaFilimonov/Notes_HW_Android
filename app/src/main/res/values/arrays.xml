@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="notes">
+        <item>Note1</item>
+        <item>Note2</item>
+        <item>Note3</item>
+        <item>Note4</item>
+        <item>Note5</item>
+    </string-array>
+
+    <string-array name="note_expanded">
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+    </string-array>
+</resources>
